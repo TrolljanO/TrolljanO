@@ -1,11 +1,27 @@
-# Olá! Eu sou Trolljano 👋
+### 🚀 Tech Stack
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap,alpinejs" height="40" alt="Frontend Stack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40" alt="Livewire"/>
+</p>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,flask,supabase" height="40" alt="Backend Stack"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" height="40" alt="CrewAI"/>
+</p>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="40" alt="Database Stack"/>
+</p>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,powershell,vscode,postman" height="40" alt="DevOps Stack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains"/>
+</p>
+<br>
 
-✨ Com 12+ anos em vendas e gestão de equipes no setor de seguros, saúde e bancário.  
-🔄 Transição para Tech: automação de fluxos, backend e infraestrutura  
-🛠️ **Tech Stack:** Laravel (PHP), Node.js, Python, N8N, Supabase, HTML, CSS, JavaScript, Vue.js  
-💾 **Banco de Dados:** MariaDB, MongoDB, Redis  
-🚀 **DevOps & Infra:** Docker, VPS (Nginx & Shell Scripts), CI/CD, GitHub Actions  
-🎖️ **Certificações:** AI Builders (Automação e IA), Laravel Fullstack (Udemy), Introdução Node.js (Aida Tech)  
-🤝 **Soft Skills:** Liderança, comunicação colaborativa, resolução de problemas, pensamento sistêmico  
-🎯 **Objetivo:** Ddesenvolvimento na área Tech, unindo a criação de produtos, gestão e tecnologia para soluções de alto impacto.
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/trajanogui/) · 
+### 📫 **Contato:** <br>
+<p></p>
+<a href="https://www.linkedin.com/in/trajanogui" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
