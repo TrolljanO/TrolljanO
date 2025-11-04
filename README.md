@@ -28,12 +28,7 @@
 </p>
 
 ---
-
-<br>
-
----
 ### 📫 **Contato:**
-___
 <a href="https://www.linkedin.com/in/trajanogui" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
